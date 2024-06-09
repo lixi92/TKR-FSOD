@@ -36,7 +36,7 @@ This repo contains the PyTorch implementation of our paper
   https://dl.fbaipublicfiles.com/detectron2/wheels/cu110/torch1.7/index.html
   ```
 
-* Install torch-geometric, 
+* Install torch-geometric, check more details: https://github.com/pyg-team/pytorch_geometric/tree/1.5.0?tab=readme-ov-file
   ```angular2html
   pip install torch-geometric==1.5.0
   pip install torch-scatter==2.0.5 -f https://pytorch-geometric.com/whl/torch-1.7.1+cu110.html
@@ -51,7 +51,7 @@ This repo contains the PyTorch implementation of our paper
   ```
 
 **3. Prepare Data and Weights**
-  same with DeFRCN(https://github.com/er-muyue/DeFRCN), for dataset, we use PASCAL_VOC format.
+* same with DeFRCN(https://github.com/er-muyue/DeFRCN), for dataset, we use PASCAL_VOC format.
 
 **4. Training and Evaluation**
 
