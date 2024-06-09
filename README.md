@@ -24,12 +24,7 @@ This repo contains the PyTorch implementation of our paper
   ```shell
   pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 -f https://download.pytorch.org/whl/torch_stable.html
   ```
-* Install Detectron2
-  ```angular2html
-  python -m pip install detectron2==0.3 -f \
-  https://dl.fbaipublicfiles.com/detectron2/wheels/cu110/torch1.7/index.html
-  ```
-
+  
 * Install Detectron2
   ```angular2html
   python -m pip install detectron2==0.3 -f \
