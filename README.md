@@ -44,7 +44,10 @@ This repo contains the PyTorch implementation of our paper
   ```angular2html
   python3 -m pip install -r requirements.txt
   ```
-
+**3. Build project**
+* according to D2DET([https://github.com/er-muyue/DeFRCN](https://github.com/JialeCao001/D2Det)
+* run ``` pip install -v -e.```
+  
 **3. Prepare Data and Weights**
 * same with DeFRCN(https://github.com/er-muyue/DeFRCN), for dataset, we use PASCAL_VOC format.
 
